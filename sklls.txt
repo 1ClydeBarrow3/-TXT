@@ -1,0 +1,1 @@
+1. Hard Skills: SDLC,STLC,HTTP,JSON,XML,API,Postman,mobiletesting,Charles,Fiddler,DevTools,VPN,iOS,Android,XCode,AndroidStudio,ADB,terminal,SQL,Postgres,Redis,Jmeter,Scrum,Python,HardSkills
